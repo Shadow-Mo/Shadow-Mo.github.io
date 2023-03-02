@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="This ismy first website.Its includes lots of information about my life.">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to my webpage </h1>
+    <p>This site will be my <strong>new</strong>home on the web.</p>
+    <a href="/page2.html">Page2</a>
+    <img src="testpic.jpg"alt="This is a test image"height="42"width="42">
+    <p>This website will have the following benefits for my business:</p>
+ <ul>
+    <li>Increased traffic </li>
+    <li>Global Reach</li>
+    <li>Promotional Opportuities</li>
+ </ul>
+ <table>
+    <tr>
+        <td>Row 1-Column 1</td>
+        <td>Row 1-Column 2</td>
+    </tr>
+    <tr>
+        <td>Row 2-Column 1</td>
+        <td>Row 2-Column 2</td>
+    </tr>
+ </table>
+</body>
+</html>
